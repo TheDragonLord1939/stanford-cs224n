@@ -1,2 +1,2 @@
 # cs224n
- Assigments for Stanford CS224N
+ Assigments for Stanford CS224n

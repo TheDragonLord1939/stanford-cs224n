@@ -10,6 +10,13 @@
             </list>
           </settings>
         </remote-mappings>
+        <remote-mappings server-id="python@sftp://jovyan@143.248.211.71:31657/usr/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/jovyan/stanford-cs224n" />
+            </list>
+          </settings>
+        </remote-mappings>
       </list>
     </list>
   </component>
